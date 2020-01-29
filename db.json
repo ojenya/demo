@@ -1,7 +1,7 @@
 {
   "items": [
-    { "id": 0001, "name": "Krendel",  "manager": "Gusek" },
-    { "id": 0002, "name": "Begemot", "manager": "Keksik" },
-    { "id": 0003, "name": "Pupsen", "manager": "Vupsen" }
+    { "id": "0001", "name": "Krendel",  "manager": "Gusek" },
+    { "id": "0002", "name": "Begemot", "manager": "Keksik" },
+    { "id": "0003", "name": "Pupsen", "manager": "Vupsen" }
   ] 
 }
